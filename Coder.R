@@ -19,3 +19,5 @@ write.csv(coder,"Coder.csv",row.names=FALSE)
 #  theme(axis.text.x = element_text(color="steelblue",size=12, angle=90) )+ labs(title = "New cars: Fuel efficiency", color = "gearbox" , y = "Fuel type" , x = "Annual fuel cost")
 
 #ggsave("New Cars.png", width = 10, height = 7)
+
+coder
